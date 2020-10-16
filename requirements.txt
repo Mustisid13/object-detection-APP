@@ -1,0 +1,6 @@
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.6/index.html 
+detectron2
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu 
+torchvision==0.7.0+cpu
+opencv-python
